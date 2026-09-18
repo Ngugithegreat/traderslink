@@ -1,0 +1,9 @@
+export const BRAND_NAME = (process.env.NEXT_PUBLIC_BRAND_NAME || "TradersLink").trim();
+export const BRAND_TAGLINE = "Your link to the markets";
+export const LOGO_FROM = "#818CF8";
+export const LOGO_TO = "#4F46E5";
+export const BRAND_HEX = "#6366F1";
+export const BRAND_HEX_LIGHT = "#818CF8";
+export const BRAND_HEX_DARK = "#4F46E5";
+export const BRAND_RGB = "99,102,241";
+export const IS_ALT_BRAND = false;
